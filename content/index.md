@@ -1,5 +1,5 @@
 ---
-Jordy Giler Lab
+title: Jordy Giler Lab
 ---
 
 Soy Jordy Giler, artista outsider y músico de Guayaquil, Ecuador.
