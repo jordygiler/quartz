@@ -1,3 +1,58 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+
+/* JORDY GILER — experimental field notes */
+
+:root {
+  --garden-ink: #1c1c1a;
+  --garden-paper: #f2f0e8;
+  --garden-signal: #c43d24;
+  --garden-rule: #d5d1c7;
+}
+
+body {
+  letter-spacing: -0.015em;
+}
+
+.page-title {
+  letter-spacing: -0.07em;
+  text-transform: uppercase;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.045em;
+  line-height: 1.08;
+}
+
+article a.internal {
+  text-decoration: underline;
+  text-decoration-color: var(--garden-signal);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+article a.internal:hover {
+  background-color: var(--highlight);
+}
+
+article p {
+  line-height: 1.85;
+}
+
+article hr {
+  border: 0;
+  border-top: 1px solid var(--lightgray);
+  margin: 2.5rem 0;
+}
+
+article blockquote {
+  border-left: 2px solid var(--secondary);
+  font-style: italic;
+  padding-left: 1rem;
+}
+
+::selection {
+  background: var(--textHighlight);
+}
