@@ -1,5 +1,6 @@
 Bio
 
+![Foto de la Bio](imagenes/foto-portada.jpg)
 ---
 
 
@@ -25,8 +26,9 @@ Albums
 A.D.N//D.E.M.O.1
 
 
+![Portada de mi disco](imagenes/foto-a1.jpg)
 
-https://f4.bcbits.com/img/a2925418806\_10.jpg https://amantedenios.bandcamp.com/album/a-d-n-d-e-m-o-1
+https://amantedenios.bandcamp.com/album/a-d-n-d-e-m-o-1
 
 
 
