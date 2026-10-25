@@ -1,11 +1,8 @@
 
+![Foto de la Bio](imagenes/tin-portada.jpg)
+---
 
-<div style="text-align: center; margin-bottom: 30px;">
-
-&nbsp; <img src="tin-portada.jpg" alt="Tinnitus" style="width: 100%; max-width: 500px; height: auto;">
-
-</div>
-
+Discografía
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
